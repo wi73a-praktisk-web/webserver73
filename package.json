@@ -1,0 +1,23 @@
+{
+  "name": "webserver73",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroku/node-js-getting-started.git"
+  },
+  "author": "frg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heroku/node-js-getting-started/issues"
+  },
+  "homepage": "https://github.com/heroku/node-js-getting-started#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "restify": "^6.3.4"
+  }
+}
