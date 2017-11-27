@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heroku/node-js-getting-started.git"
+    "url": "git+https://github.com/frankgoldmann/webserver73.git"
   },
-  "author": "frg",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/heroku/node-js-getting-started/issues"
+    "url": "https://github.com/frankgoldmann/webserver73/issues"
   },
-  "homepage": "https://github.com/heroku/node-js-getting-started#readme",
+  "homepage": "https://github.com/frankgoldmann/webserver73#readme",
   "dependencies": {
     "path": "^0.12.7",
     "restify": "^6.3.4"
